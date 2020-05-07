@@ -1,12 +1,13 @@
 {
   "name": "saadpasta.github.io",
+  "homepage": "https://d-mindlin.github.io/career-portfolio/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
     "@apollo/react-hooks": "^3.1.4",
     "apollo-boost": "^0.4.4",
     "axios": "^0.19.2",
-    "gh-pages": "^2.1.1",
+    "gh-pages": "^2.2.0",
     "graphql": "^14.5.8",
     "react": "^16.10.2",
     "react-dom": "^16.10.2",
